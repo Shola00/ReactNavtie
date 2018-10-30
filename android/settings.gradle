@@ -1,0 +1,3 @@
+rootProject.name = 'MumSpring'
+
+include ':app'
